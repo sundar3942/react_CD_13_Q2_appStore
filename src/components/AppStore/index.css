@@ -1,6 +1,7 @@
 /* Write your CSS here */
 .page {
   min-height: 100vh;
+  min-width: 500px;
   background-image: linear-gradient(to bottom, #fff1eb, #ace0f9);
   display: flex;
   flex-direction: column;
